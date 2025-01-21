@@ -1,0 +1,1299 @@
+﻿::after,
+::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+body {
+    /*font-family*/
+    background-color: #cbcab0;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.main {
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.35s ease-in-out;
+    background-color: #ddedc3;
+}
+
+.sidebar {
+    width: 260px;
+    min-width: 260px;
+    z-index: 100;
+    transition: all 0.25s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    background-color: #3c422c;
+    padding: 1rem;
+}
+
+.sidebar-logo {
+    max-width: 200px;
+    min-width: 200px;
+}
+
+.sidebar-nav {
+    padding: 1rem 0 1rem 0;
+    flex: 1 1 auto;
+}
+
+.sidebar-link {
+    padding: 0.7rem 1.5rem;
+    color: white;
+    display: block;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    border-left: 3px solid transparent;
+}
+
+    .sidebar-link i {
+        font-size: 1.1rem;
+        margin-right: 0.75rem;
+    }
+
+    .sidebar-link:hover {
+        background-color: #cbcab0;
+        border-left: 3px solid white;
+        color: black;
+    }
+
+    .sidebar-link button {
+        background: none;
+        border: none;
+        color: inherit;
+        font: inherit;
+        cursor: pointer;
+        padding: 0;
+        margin: 0;
+        outline: inherit;
+    }
+
+.bg-warning {
+    background-color: #222616 !important;
+}
+
+.sidebar-item {
+    position: relative;
+    top: 0px;
+    /*left: -3rem;*/
+}
+
+/*    JS
+.sidebar.expand {
+    width: 260px;
+    min-width: 260px;
+}
+*/
+h3 {
+    color: #6a961f;
+    font-size: small;
+}
+
+.grafLogIn {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px !important;
+    height: 50vh !important;
+    background-color: transparent !important;
+    width: 100% !important;
+}
+
+    .grafLogIn * {
+        opacity: 100% !important;
+        z-index: 1;
+    }
+
+.divPrincipal {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: whitesmoke;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #6a961f;
+    transition: width 0.6s ease;
+}
+
+.full-size {
+    height: 50% !important;
+    width: 100% !important;
+}
+
+.btn-primary {
+    background-color: #3c422c;
+    color: whitesmoke;
+    border-color: #3c422c;
+}
+
+    .btn-primary:hover {
+        background-color: #6e714a;
+        color: whitesmoke;
+        border-color: #3c422c;
+    }
+
+.graf {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    min-height: 300px !important;
+    height: auto !important;
+    background-color: transparent !important;
+}
+
+.grafBiomonitor {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    min-height: 200px !important;
+    height: auto !important;
+    background-color: transparent !important;
+}
+
+    .grafBiomonitor .container-fluid {
+        width: 100%;
+    }
+
+    .grafBiomonitor .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+.container-fluid,
+.row,
+.col {
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 1415px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .txtTop1 {
+        opacity: 0%;
+    }
+}
+
+@media (max-width: 1153px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .txtTop1 {
+        opacity: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .wrapper {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .main {
+        width: 100%;
+        overflow: auto;
+    }
+}
+
+@media (max-width: 576px) {
+    .sidebar {
+        display: none;
+    }
+
+    .sidebar-footer {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .sidebar-link {
+        padding: 0.7rem 1rem;
+    }
+
+        .sidebar-link i {
+            font-size: 1rem;
+        }
+
+    .top .col-sm {
+        margin-bottom: 1rem;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    z-index: 1;
+}
+
+    .table th,
+    .table td {
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+.progress-bar {
+    height: 20px;
+}
+
+.botonlogin {
+    margin-top: 30px !important;
+}
+
+.squares {
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: auto;
+    min-width: 13.125rem !important;
+    max-width: 13.125rem !important;
+    min-height: 13.125rem !important;
+    max-height: 13.125rem !important;
+}
+
+.squaresBiomonitor {
+    background-color: #274724 !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: 8.125rem;
+    min-width: 250px !important;
+    max-width: 250px !important;
+    min-height: 9.125rem !important;
+    max-height: 9.125rem !important;
+}
+
+.squaresBiomonitor2 {
+    margin-top: 50px !important;
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: 8.125rem;
+    min-width: 14.125rem !important;
+    max-width: 14.125rem !important;
+    min-height: 9.125rem !important;
+    max-height: 9.125rem !important;
+}
+
+.rectangleBiomonitor {
+    margin-top: 50px !important;
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    width: 535px;
+    height: 300px;
+    min-width: 535px !important;
+    min-height: 9.125rem !important;
+}
+
+.txtTop {
+    position: absolute;
+    margin-top: -2rem;
+    color: black;
+}
+
+.mb-oso {
+    margin-top: -3rem;
+}
+
+.rectangleBiomonitorInside {
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+.backgroundVideo {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    min-width: 100vw !important;
+    min-height: 100vh !important;
+    background-color: black !important;
+}
+
+.squaresTransparent {
+    background-color: transparent !important;
+    color: white !important;
+    border-radius: 15px !important;
+    min-height: 100% !important;
+    height: 100% !important;
+    margin: 1.875rem !important;
+}
+
+.rowLogIn {
+    min-width: 100% !important;
+    width: 100% !important;
+    min-height: 100% !important;
+    height: 100% !important;
+}
+
+.squaresLogIn {
+    padding: 1.5rem !important;
+    background-color: #6a961f !important;
+    border-radius: 15px !important;
+    min-height: 100%;
+    height: 100%;
+}
+
+.ingresar {
+    margin-left: 1.625rem;
+    margin-top: 1rem;
+}
+
+.start-logo {
+    max-width: 90px;
+}
+
+.loginData {
+    margin-top: 2rem !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+}
+
+    .loginData .form-floating {
+        width: 100% !important;
+    }
+
+.floatingInput {
+    max-height: 58px;
+    height: 3.625rem !important;
+}
+
+.Video {
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 0 !important;
+}
+
+.progress {
+    display: flex;
+    height: 20px !important;
+    width: 100px !important;
+    overflow: hidden;
+    font-size: 0.75rem;
+    background-color: #7b6a58;
+    border-radius: 0.25rem;
+}
+
+.noMargen {
+    margin: 0 !important;
+    background-color: #212529 !important;
+}
+
+.futurosBiomonitores {
+    font-size: 30px !important;
+    font-weight: bolder !important;
+}
+
+.verTodos {
+    color: #6a961f !important;
+}
+
+.aprobado {
+    background-color: #6a961f;
+    color: whitesmoke;
+    border-radius: 10px !important;
+    height: 30px !important;
+}
+
+.pendiente {
+    background-color: #d3d3d3;
+    color: black;
+    border-radius: 10px !important;
+    height: 30px !important;
+}
+
+.bandera {
+    max-width: 100px;
+    min-width: 100px;
+}
+
+biomonitorP * {
+    overflow: hidden;
+}
+
+::after,
+::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+body {
+    /*font-family*/
+    background-color: #cbcab0;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.main {
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.35s ease-in-out;
+    background-color: #ddedc3;
+}
+
+.sidebar {
+    width: 260px;
+    min-width: 260px;
+    z-index: 100;
+    transition: all 0.25s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    background-color: #3c422c;
+    padding: 1rem;
+}
+
+.sidebar-logo {
+    max-width: 200px;
+    min-width: 200px;
+}
+
+.sidebar-nav {
+    padding: 1rem 0 1rem 0;
+    flex: 1 1 auto;
+}
+
+.sidebar-link {
+    padding: 0.7rem 1.5rem;
+    color: white;
+    display: block;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    border-left: 3px solid transparent;
+}
+
+    .sidebar-link i {
+        font-size: 1.1rem;
+        margin-right: 0.75rem;
+    }
+
+    .sidebar-link:hover {
+        background-color: #cbcab0;
+        border-left: 3px solid white;
+        color: black;
+    }
+
+    .sidebar-link button {
+        background: none;
+        border: none;
+        color: inherit;
+        font: inherit;
+        cursor: pointer;
+        padding: 0;
+        margin: 0;
+        outline: inherit;
+    }
+
+.bg-warning {
+    background-color: #222616 !important;
+}
+
+.sidebar-item {
+    position: relative;
+    top: 0px;
+    /*left: -3rem;*/
+}
+
+/*    JS
+.sidebar.expand {
+    width: 260px;
+    min-width: 260px;
+}
+*/
+h3 {
+    color: #6a961f;
+    font-size: small;
+}
+
+.grafLogIn {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px !important;
+    height: 50vh !important;
+    background-color: transparent !important;
+    width: 100% !important;
+}
+
+    .grafLogIn * {
+        opacity: 100% !important;
+        z-index: 1;
+    }
+
+.divPrincipal {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: whitesmoke;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #6a961f;
+    transition: width 0.6s ease;
+}
+
+.full-size {
+    height: 50% !important;
+    width: 100% !important;
+}
+
+.btn-primary {
+    background-color: #3c422c;
+    color: whitesmoke;
+    border-color: #3c422c;
+}
+
+    .btn-primary:hover {
+        background-color: #6e714a;
+        color: whitesmoke;
+        border-color: #3c422c;
+    }
+
+.graf {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    min-height: 300px !important;
+    height: auto !important;
+    background-color: transparent !important;
+}
+
+.grafBiomonitor {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    min-height: 200px !important;
+    height: auto !important;
+    background-color: transparent !important;
+}
+
+    .grafBiomonitor .container-fluid {
+        width: 100%;
+    }
+
+    .grafBiomonitor .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+.container-fluid,
+.row,
+.col {
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 1415px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .txtTop1 {
+        opacity: 0%;
+    }
+}
+
+@media (max-width: 1153px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .txtTop1 {
+        opacity: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .squaresBiomonitor2 {
+        overflow: auto;
+    }
+
+    .wrapper {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .main {
+        width: 100%;
+        overflow: auto;
+    }
+}
+
+@media (max-width: 576px) {
+    .sidebar {
+        display: none;
+    }
+
+    .sidebar-footer {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .sidebar-link {
+        padding: 0.7rem 1rem;
+    }
+
+        .sidebar-link i {
+            font-size: 1rem;
+        }
+
+    .top .col-sm {
+        margin-bottom: 1rem;
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    z-index: 1;
+}
+
+    .table th,
+    .table td {
+        padding: 0.75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+.progress-bar {
+    height: 20px;
+}
+
+.botonlogin {
+    margin-top: 30px !important;
+    position: sticky !important;
+    bottom: 10px !important;
+}
+
+.squares {
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: auto;
+    min-width: 13.125rem !important;
+    max-width: 13.125rem !important;
+    min-height: 13.125rem !important;
+    max-height: 13.125rem !important;
+}
+
+.squaresBiomonitor {
+    background-color: #274724 !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: 8.125rem;
+    min-width: 237px !important;
+    max-width: 237px !important;
+    min-height: 9.125rem !important;
+    max-height: 9.125rem !important;
+}
+
+.squaresBiomonitor2 {
+    margin-top: 50px !important;
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    height: 8.125rem;
+    min-width: 14.125rem !important;
+    max-width: 14.125rem !important;
+    min-height: 9.125rem !important;
+    max-height: 9.125rem !important;
+}
+
+.rectangleBiomonitor {
+    margin-top: 50px !important;
+    background-color: #6a961f !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    width: 535px;
+    height: 300px;
+    min-width: 535px !important;
+    min-height: 9.125rem !important;
+}
+
+.txtTop {
+    position: absolute;
+    margin-top: -2rem;
+    color: black;
+}
+
+.mb-oso {
+    margin-top: -3rem;
+}
+
+.rectangleBiomonitorInside {
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+.backgroundVideo {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    min-width: 100vw !important;
+    min-height: 100vh !important;
+    background-color: black !important;
+}
+
+.squaresTransparent {
+    background-color: transparent !important;
+    color: white !important;
+    border-radius: 15px !important;
+    min-height: 100% !important;
+    height: 100% !important;
+    margin: 1.875rem !important;
+}
+
+.rowLogIn {
+    min-width: 100% !important;
+    width: 100% !important;
+    min-height: 100% !important;
+    height: 100% !important;
+}
+
+.squaresLogIn {
+    padding: 1.5rem !important;
+    background-color: #6a961f !important;
+    border-radius: 15px !important;
+    min-height: 420px;
+    max-height: 420px;
+}
+
+.ingresar {
+    margin-left: 1.625rem;
+    margin-top: 1rem;
+}
+
+.start-logo {
+    max-width: 90px;
+}
+
+.loginData {
+    margin-top: 2rem !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+}
+
+    .loginData .form-floating {
+        width: 100% !important;
+    }
+
+.floatingInput {
+    max-height: 58px;
+    height: 3.625rem !important;
+}
+
+.Video {
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 0 !important;
+}
+
+.progress {
+    display: flex;
+    height: 20px !important;
+    width: 100px !important;
+    overflow: hidden;
+    font-size: 0.75rem;
+    background-color: #7b6a58;
+    border-radius: 0.25rem;
+}
+
+.noMargen {
+    margin: 0 !important;
+    background-color: #212529 !important;
+}
+
+.futurosBiomonitores {
+    font-size: 30px !important;
+    font-weight: bolder !important;
+}
+
+.verTodos {
+    color: #6a961f !important;
+}
+
+.aprobado {
+    background-color: #6a961f;
+    color: whitesmoke;
+    border-radius: 10px !important;
+    height: 30px !important;
+}
+
+.pendiente {
+    background-color: #d3d3d3;
+    color: black;
+    border-radius: 10px !important;
+    height: 30px !important;
+}
+
+.bandera {
+    max-width: 100px;
+    min-width: 100px;
+}
+
+.datosExtra * {
+    overflow: auto;
+}
+
+biomonitorP * {
+    overflow: hidden;
+}
+
+.size1 {
+    width: 250px !important;
+    min-width: 250px !important;
+}
+
+.completitud {
+    margin-left: 20px;
+    margin-right: 35px;
+    font-weight: bold;
+    align-content: center;
+    padding-bottom: 62px;
+}
+
+.completitud2 {
+    margin-left: 20px;
+    font-weight: bold;
+    align-content: center;
+    padding-bottom: 62px;
+}
+
+.squaresBiomonitor3 {
+    margin-top: 50px !important;
+    background-color: #274724 !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    margin: 1rem;
+    min-width: 408px !important;
+    max-width: 408px !important;
+    min-height: 100px !important;
+    max-height: 100px !important;
+}
+
+    .squaresBiomonitor3 button {
+        align-items: center;
+        background-color: #537519;
+        border: 0;
+        border-radius: 5px;
+        box-sizing: border-box;
+        color: #ffffff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 20px;
+        max-width: 150px;
+        min-height: 40px;
+        min-width: 150px;
+        overflow: hidden;
+        padding: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+        touch-action: manipulation;
+        transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+        user-select: none;
+        -webkit-user-select: none;
+        vertical-align: middle;
+    }
+
+        .squaresBiomonitor3 button:hover,
+        .squaresBiomonitor3 button:focus {
+            background-color: #6a961f;
+            color: #ffffff;
+        }
+
+        .squaresBiomonitor3 button:active {
+            background: #09223b;
+            color: rgb(255, 255, 255, 0.7);
+        }
+
+        .squaresBiomonitor3 button:disabled {
+            cursor: not-allowed;
+            background: rgba(0, 0, 0, 0.08);
+            color: rgba(0, 0, 0, 0.3);
+        }
+
+.popupEnabled {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: transparent !important;
+    backdrop-filter: blur(5px);
+    opacity: 100%;
+    width: 100%;
+    height: 100%;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+
+.rectanglePopup {
+    background-color: yellow !important;
+    color: white;
+    border-radius: 15px !important;
+    flex: 0 0 auto;
+    width: 535px;
+    height: 300px;
+    min-width: 535px !important;
+    min-height: 9.125rem !important;
+    margin-left: 200px;
+}
+
+.transparent {
+    display: none;
+}
+
+.transparent {
+    display: block;
+}
+
+.ingresar2 {
+    margin-left: 12.5rem;
+    margin-top: 0.5rem;
+}
+
+    .ingresar2 a {
+        color: #f7c75f;
+    }
+
+.squaresRegister {
+    margin-top: -12rem;
+    padding: 1.5rem !important;
+    background-color: #6a961f !important;
+    border-radius: 15px !important;
+    min-height: 725px;
+    max-height: 725px;
+    overflow: hidden;
+}
+
+.cuenta a {
+    color: #f7c75f !important;
+}
+
+.rojo {
+    color: orange;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.derecha {
+    margin-left: 300px !important;
+    font-size: large !important;
+    color: #f7c75f !important;
+}
+
+.especies{
+    padding-top: 25px !important;
+}
+
+.acceso {
+    align-items: center;
+    background-color: #537519;
+    border: 0;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 150px;
+    min-height: 40px;
+    min-width: 150px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+}
+
+    .acceso:hover,
+    .acceso:focus {
+        background-color: #6a961f;
+        color: #ffffff;
+    }
+
+    .acceso:active {
+        background: #6E714A;
+        color: rgb(255, 255, 255, 0.7);
+    }
+
+    .acceso:disabled {
+        cursor: not-allowed;
+        background: rgba(0, 0, 0, 0.08);
+        color: rgba(0, 0, 0, 0.3);
+    }
+
+.rechazo {
+    align-items: center;
+    background-color: #CE6930;
+    border: 0;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 150px;
+    min-height: 40px;
+    min-width: 150px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+}
+
+    .rechazo:hover,
+    .rechazo:focus {
+        background-color: #F9B234;
+        color: #ffffff;
+    }
+
+    .rechazo:active {
+        background: #9A3831;
+        color: rgb(255, 255, 255, 0.7);
+    }
+
+    .rechazo:disabled {
+        cursor: not-allowed;
+        background: rgba(0, 0, 0, 0.08);
+        color: rgba(0, 0, 0, 0.3);
+    }
+
+.editar {
+    background-color: #392011!important;
+}
+.editar:hover,
+.editar:focus {
+    background-color: #634E42!important;
+}
+    .editar:active {
+        background-color: #A48A7A !important;
+    }
+
+.botones{
+    gap: 10% !important;
+}
+.full{
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.seleccionar {
+    align-items: center;
+    background-color: #4A4C36;
+    border: 0;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 20px;
+    max-width: 150px;
+    min-height: 40px;
+    min-width: 150px;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    touch-action: manipulation;
+    transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+}
+
+    .seleccionar:hover,
+    .seleccioanr:focus {
+        background-color: #6E714A;
+        color: #ffffff;
+    }
+
+    .seleccionar:active {
+        background: #CBCAB0;
+        color: rgb(255, 255, 255, 0.7);
+    }
+
+    .seleccionar:disabled {
+        cursor: not-allowed;
+        background: rgba(0, 0, 0, 0.08);
+        color: rgba(0, 0, 0, 0.3);
+    }
+
+.enLista{
+    color: #9A3831;
+}
+
+.aut {
+    color: #9A3831;
+    margin-top: -18px;
+}
+
+
+
+
+.custom-radio .form-check-input:checked {
+    background-color: #6a961f; 
+    border-color: #6a961f; 
+}
+
+.hide {
+    overflow: hidden !important;
+}

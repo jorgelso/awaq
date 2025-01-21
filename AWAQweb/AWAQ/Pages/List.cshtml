@@ -1,0 +1,135 @@
+﻿@page
+@model ListModel
+@{
+    ViewData["Title"] = "Lista";
+}
+
+
+<div class="wrapper">
+    <aside class="sidebar d-flex align-items-center p-10">
+        <div class="d-flex">
+            <div class="sidebar-logo">
+                <a href=""><img class="img-fluid" src="/img/AWAQWhite.png" alt=""></a>
+            </div>
+        </div>
+        <ul class="sidebar-nav">
+            <li class="sidebar-item">
+
+
+                <form method="post" class="sidebar-link">
+                    <input type="hidden" name="mail" value="@Model.mail" />
+
+                    
+                        <button type="submit">
+                            <i class="lni lni-list"></i>
+                            <span>Tablero</span>
+                        </button>
+                    
+                </form>
+
+
+
+            </li>
+            <!--
+                <li class="sidebar-item">
+                <a href="" class="sidebar-link">
+                    <i class="lni lni-license"></i>
+                    <span>Vista singular</span>
+                </a>
+            </li>
+            -->
+            
+            <li class="sidebar-item">
+                <a href="Popup" class="sidebar-link">
+                    <i class="lni lni-user"></i>
+                    <span>Solicitudes</span>
+                </a>
+            </li>
+          
+        </ul>
+        <div class="sidebar-footer">
+            <a href="Index" class="sidebar-link">
+                <i class="lni lni-exit"></i>
+                <span>Salir</span>
+            </a>
+        </div>
+    </aside>
+    <div class="main p-3">
+        <div class="container-fluid">
+            <div class="container">
+            <div class="top">
+                <div class="row">
+                    <div class="col-sm">
+                        <h1>Tablero</h1>
+                    </div>
+                    <div class="col-sm">
+                        <div class="row text-center">
+                            <h3>ID Admin</h3>
+                        </div>
+                        <div class="row text-center">
+                            <h1>@Model.id_admin</h1> <!-- Aqui va la variable de la matricula del admin -->
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <form method="post" asp-page-handler="Busqueda">
+                            <div class="input-group mb-3">
+                                <input asp-for="id_usuarioSeleccionado" type="number" min="1" required class="form-control" placeholder="Buscar ID"
+                                       aria-label="Buscar ID" aria-describedby="basic-addon2">
+                                <input type="hidden" name="mail" value="@Model.mail" />
+                                <input type="hidden" name="id_admin" value="@Model.id_admin" />
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary" type="submit">
+                                        <i class="lni lni-magnifier"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <br>
+                <br>
+            </div>
+            
+            <div class="container-fluid">
+                <!-- table -->
+
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th> ID </th>
+                            <th> Nombre </th>
+                            <th> Correo </th>
+                            <th> Pais </th>
+                            <th> Última Conexión </th>
+                            <th> Progreso </th>
+                            <th> Estatus </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.ListaUsuarios)
+                        {
+
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.id_usuario)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                                <td>@Html.DisplayFor(modelItem => item.correo)</td>
+                                <td>@Html.DisplayFor(modelItem => item.pais)</td>
+                                <td>@Html.DisplayFor(modelItem => item.ultima_conexion)</td>
+                                <td>
+                                    <div class="progress">
+                                        <div class="progress-bar" role="progressbar" style="width: @Html.DisplayFor(modelItem => item.progreso)%;"
+                                             aria-valuemin="0" aria-valuemax="100"> @Html.DisplayFor(modelItem => item.progreso)% </div>
+                                    </div>
+                                </td>
+                                <td><div class="@item.css text-center align-middle">
+    @item.estatus
+</div></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>

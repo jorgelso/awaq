@@ -1,0 +1,281 @@
+﻿@page
+@model PopupModel
+@{
+    ViewData["Title"] = "Lista";
+}
+
+
+
+<div class="wrapper">
+    <aside class="sidebar d-flex align-items-center p-10">
+        <div class="d-flex">
+            <div class="sidebar-logo">
+                <a href=""><img class="img-fluid" src="/img/AWAQWhite.png" alt=""></a>
+            </div>
+        </div>
+        <ul class="sidebar-nav">
+            <li class="sidebar-item">
+
+
+                <form method="post" class="sidebar-link">
+                    <input type="hidden" name="mail" value="@Model.mail" />
+
+
+                    <button type="submit">
+                        <i class="lni lni-list"></i>
+                        <span>Tablero</span>
+                    </button>
+
+                </form>
+
+
+
+            </li>
+            <!--
+                <li class="sidebar-item">
+                <a href="" class="sidebar-link">
+                    <i class="lni lni-license"></i>
+                    <span>Vista singular</span>
+                </a>
+            </li>
+            -->
+
+            <li class="sidebar-item">
+                <a href="" class="sidebar-link">
+                    <i class="lni lni-user"></i>
+                    <span>Solicitudes</span>
+                </a>
+            </li>
+
+        </ul>
+        <div class="sidebar-footer">
+            <a href="Index" class="sidebar-link">
+                <i class="lni lni-exit"></i>
+                <span>Salir</span>
+            </a>
+        </div>
+    </aside>
+    <div class="main p-3">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="top">
+                    <div class="row">
+
+                        <div class="col-sm">
+                            <div class="row text-center">
+                                <h3>ID Admin</h3>
+                            </div>
+                            <div class="row text-center">
+                                <h1>@Model.id_admin</h1> <!-- Aqui va la variable de la matricula del admin -->
+                            </div>
+                        </div>
+
+                        <div class="col-sm d-flex botones">
+                            <form method="post" asp-page-handler="Agregar">
+                                <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                                <button type="submit" class="seleccionar full">
+                                    <span>Agregar biomonitor</span>
+                                </button>
+                            </form>
+                            <a href="Popup" class="seleccionar">
+                                <span>Ver biomonitores</span>
+                            </a>
+                        </div>
+
+                    </div>
+                    <br>
+                    <br>
+                </div>
+
+                <div class="container-fluid">
+                    <!-- table -->
+                    @if (Model.seleccion != 1 && Model.seleccion != 2)
+                    {
+                        <table class="table">
+                            <p> <strong> Usuarios pendientes por autorizar </strong></p>
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th> ID </th>
+                                    <th> Nombre </th>
+                                    <th> Correo </th>
+                                    <th> País </th>
+                                    <th> Usuario </th>
+                                    <th> Acceso </th>
+                                    <th>  </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.ListaUsuarios)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(modelItem => item.id_usuario)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.correo)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.pais)</td>
+                                        <td>
+                                            <form method="post" asp-page-handler="Acceso">
+                                                <div class="input-group mb-3">
+                                                    <input asp-for="usernameSeleccionado" type="text" required class="form-control" placeholder="Usuario">
+                                                    <input type="hidden" name="correoSeleccionado" value="@item.correo" />
+                                                    <input type="hidden" name="nombreSeleccionado" value="@item.Nombre" />
+                                                    <input type="hidden" name="contrasenaSeleccionada" value="@item.contrasena" />
+                                                    <input type="hidden" name="paisSeleccionado" value="@item.pais" />
+                                                    <input type="hidden" name="edadSeleccionada" value="@item.edad" />
+                                                    <div class="input-group-append">
+                                                        <button type="submit" class="acceso">
+                                                            <span>Dar acceso</span>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </td>
+
+
+                                        <td>
+                                            <form method="post" asp-page-handler="Rechazo">
+                                                <input type="hidden" name="correoSeleccionado" value="@item.correo" />
+                                                <button type="submit" class="rechazo">
+                                                    <span>Rechazar</span>
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        <table class="table">
+                            <p> <strong> Biomonitores actuales </strong></p>
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th> ID </th>
+                                    <th> Nombre </th>
+                                    <th> Correo </th>
+                                    <th> Contraseña </th>
+                                    <th> País </th>
+                                    <th> Edad </th>
+                                    <th> Eliminar </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.ListaUsuarios2)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(modelItem => item.id_usuario)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.correo)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.contrasena)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.pais)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.edad)</td>
+                                        <td>
+                                            <form method="post" asp-page-handler="Eliminacion">
+                                                <input type="hidden" name="correoSeleccionado" value="@item.correo" />
+                                                <input type="hidden" name="idSeleccionada" value="@item.id_usuario" />
+                                                <button type="submit" class="acceso editar">
+                                                    <span>Eliminar</span>
+                                                </button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                    @if (Model.seleccion == 1)
+                    {
+                        @if (Model.userExists ?? false)
+                        {
+                            <p class="enLista"><strong>El usuario que intenta registrar ya se encuentra en la lista de biomonitores actuales o está pendiente de aprobación</strong></p>
+                        }
+                        <p><strong>Registrar nuevo usuario</strong></p>
+                        <form method="post" asp-page-handler="Registrar">
+                            <div class="gap-4 full-size">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="nombre" class="form-control" placeholder="Guillermo" />
+                                    <label asp-for="nombre">Nombre</label>
+                                    <span asp-validation-for="nombre" class="text-white"></span>
+                                </div>
+                                @if (Model.error1 ?? false)
+                                {
+                                    <p class="aut"><strong>"Ingrese un nombre"</strong></p>
+                                }
+
+                                <div class="form-floating mb-3">
+                                    <input asp-for="correo"
+                                           type="email"
+                                           class="form-control"
+                                           placeholder="" />
+                                    <label for="floatingPassword">Correo</label>
+                                    <span asp-validation-for="correo" class="text-white"></span>
+                                </div>
+                                @if (Model.error2 ?? false)
+                                {
+                                    <p class="aut"><strong>"Ingrese un correo"</strong></p>
+                                }
+                                <div class="form-floating mb-3">
+                                    <input asp-for="password"
+                                           type="password"
+                                           class="form-control"
+                                           placeholder="Password" />
+                                    <label for="floatingPassword">Contraseña</label>
+                                    <span asp-validation-for="password" class="text-white"></span>
+                                </div>
+                                @if (Model.error3 ?? false)
+                                {
+                                    <p class="aut"><strong>"Ingrese una contraseña"</strong></p>
+                                }
+                                <div class="form-floating mb-3">
+                                    <input asp-for="edad"
+                                           type="number"
+                                           class="form-control"
+                                           placeholder="Edad" />
+                                    <label for="floatingPassword">Edad</label>
+                                    <span asp-validation-for="edad" class="text-white"></span>
+                                </div>
+                                @if (Model.error4 ?? false)
+                                {
+                                    <p class="aut"><strong>"Ingrese una edad"</strong></p>
+                                }
+                                <div class="form-floating mb-3">
+                                    <input asp-for="usuarioRegistro"
+                                           type="text"
+                                           class="form-control"
+                                           placeholder="Usuario" />
+                                    <label for="floatingPassword">Usuario</label>
+                                </div>
+                                @if (Model.error5 ?? false)
+                                {
+                                    <p class="aut"><strong>"Ingrese un usuario"</strong></p>
+                                }
+                                <p>País</p>
+                                <div class="form-check custom-radio  text-black">
+                                    <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault1" value="España" checked>
+                                    <label class="form-check-label" for="flexRadioDefault1">
+                                        España
+                                    </label>
+                                </div>
+                                <div class="form-check custom-radio  text-black">
+                                    <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault2" value="Colombia">
+                                    <label class="form-check-label" for="flexRadioDefault2">
+                                        Colombia
+                                    </label>
+                                </div>
+                                <div class="form-check  custom-radio text-black">
+                                    <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault3" value="México">
+                                    <label class="form-check-label" for="flexRadioDefault3">
+                                        México
+                                    </label>
+                                </div>
+
+                                <div class="d-grid gap-2 container-fluid">
+                                    <button type="submit" class="btn btn-primary botonlogin">
+                                        Registrar
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

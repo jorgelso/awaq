@@ -1,0 +1,1026 @@
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Projects/AWAQ/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Projects/AWAQ/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Paulina/Downloads/Archive/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Projects/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Jorge/Desktop/CodingF/HTML/AWAQ Sprint 2/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/joseguerrero/Documents/ITC_Tec/SoftwareDev/BioExplorer/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.sourcelink.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Jorge/Source/Repos/AWAQ_WebPage/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Downloads/AWAQ Sprint 2 - Copy/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Jorge/Downloads/AWAQ10APR.2/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Downloads/AWAQ_3AM/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/luisresendez/Downloads/AWAQ49/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Paulina/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Downloads/AWAQ_f/AWAQ_f/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Downloads/Proyecto_Web_Awaq_Kuro/AWAQ/bin/Debug/net6.0/System.Net.Http.Json.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Net.Http.Json.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Downloads/Proyecto_Web_Awaq_Kuro 1/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Net.Http.Json.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Jorge/Downloads/AWAQ56/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/appsettings.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.exe
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Net.Http.Json.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.Up2Date
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+C:/Users/Paulina/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/appsettings.Development.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/appsettings.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.staticwebassets.runtime.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.deps.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.runtimeconfig.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/MySql.Data.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Net.Http.Json.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Text.Json.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/ZstdSharp.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.AssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.RazorAssemblyInfo.cs
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.AWAQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.build.AWAQ.props
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AWAQ.props
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AWAQ.props
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/bundle/AWAQ.styles.css
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/scopedcss/projectbundle/AWAQ.bundle.scp.css
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.csproj.CopyComplete
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/refint/AWAQ.dll
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.pdb
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/AWAQ.genruntimeconfig.cache
+/Users/jorge/Downloads/AWAQ63/AWAQ/obj/Debug/net6.0/ref/AWAQ.dll

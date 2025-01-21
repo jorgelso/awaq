@@ -1,0 +1,248 @@
+﻿@page
+@model BiomonitorModel
+@{
+    ViewData["Title"] = "Biomonitor";
+}
+
+<div class="wrapper biomonitorP">
+
+    <aside class="sidebar d-flex align-items-center p-10">
+        <div class="d-flex">
+            <div class="sidebar-logo">
+                <a href=""><img class="img-fluid" src="/img/AWAQWhite.png" alt="" /></a>
+            </div>
+        </div>
+        <ul class="sidebar-nav">
+            <li class="sidebar-item">
+                <form method="post" class="sidebar-link" required asp-page-handler="Dashboard">
+                    <input type="hidden" name="mail" value="@Model.mail" />
+
+
+                    <button type="submit">
+                        <i class="lni lni-list"></i>
+                        <span>Tablero</span>
+                    </button>
+
+                </form>
+            </li>
+            <!--
+                  <li class="sidebar-item">
+                      <a href="" class="sidebar-link">
+                          <i class="lni lni-license"></i>
+                          <span>Vista singular</span>
+                      </a>
+                  </li>
+                  -->
+
+            <li class="sidebar-item">
+                <a href="Popup" class="sidebar-link">
+                    <i class="lni lni-user"></i>
+                    <span>Solicitudes</span>
+                </a>
+            </li>
+        </ul>
+        <div class="sidebar-footer">
+            <a href="Index" class="sidebar-link">
+                <i class="lni lni-exit"></i>
+                <span>Salir</span>
+            </a>
+        </div>
+    </aside>
+    <div class="main p-3">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="top">
+                    <div class="row">
+                        <div class="col-sm">
+                            <h1>Vista Singular</h1>
+                        </div>
+                        <div class="col-sm">
+                            <div class="row text-center">
+                                <h3>ID Admin</h3>
+                            </div>
+                            <div class="row text-center">
+                                <h1>@Model.id_admin</h1>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <form method="post" asp-page-handler="Busqueda">
+                                <div class="input-group mb-3">
+                                    <input asp-for="id_usuarioSeleccionado"
+                                           type="number"
+                                           required
+                                           min="1"
+                                           class="form-control"
+                                           placeholder="Buscar ID" />
+                                    <input type="hidden" name="mail" value="@Model.mail" />
+                                    <input type="hidden"
+                                           name="id_admin"
+                                           value="@Model.id_admin" />
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="submit">
+                                            <i class="lni lni-magnifier"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <br />
+                    <br />
+                </div>
+
+                <!-- Graphs -->
+                <div class="grafBiomonitor">
+                    <div class="row container-fluid">
+                        <!-- <div class="row"> -->
+                        <!-- borrar container-fluid? -->
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Nombre</p>
+                                <p class="h3">@Model.nombre</p>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Edad</p>
+                                <p class="h3">@Model.edad</p>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center p-3">
+                                <p class="m-0 p-0">País</p>
+                                <p class="h3">@Model.pais</p>
+                                <img src="/img/@Model.bandera" class="bandera" />
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Experiencia</p>
+                                <p class="h3">@Model.exp</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Graphs -->
+                <div class="grafBiomonitor">
+                    <div class="row container-fluid">
+                        <!-- <div class="row"> -->
+                        <!-- borrar container-fluid? -->
+                        <div class="col-6 rectangleBiomonitor">
+                            <h1 class="txtTop">Proceso Actual</h1>
+                            <div class="text-center pt-3">
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Última especie descubierta</p>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Minutos jugados</p>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Última conexión</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">@Model.ultimoAnimal</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">&nbsp @Model.tiempo_jugado</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">@Model.ultima_conexion</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col squaresBiomonitor2">
+                            <div class="row container-fluid">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Métodos completados</p>
+                                    <p class="h3">@Model.metodos_completados</p>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row container-fluid squaresBiomonitor2">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Minutos promedio por monitoreo</p>
+                                    <p class="h3">@Model.promedio</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor2">
+                            <div class="row container-fluid">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Clasificación por tiempo</p>
+                                    <p class="h3">@Model.ranking</p>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row container-fluid squaresBiomonitor2">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Número de animales encontrados</p>
+                                    <p class="h3">@Model.animalesEncontrados</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row container-fluid p-0 m-0">
+                    <div class="col-6 p-0 m-0">
+                        <div class="container">
+                            <h1 class="mt-5">Estadística</h1>
+                            <div class="d-flex">
+                                <img src="/img/AWAQ.png" class="start-logo" />
+                                <p class="completitud">Progreso</p>
+                                <div class="progress size1">
+                                    <div class="progress-bar progress-bar-striped progress-bar-animated"
+                                         role="progressbar"
+                                         aria-valuemin="0"
+                                         aria-valuemax="100"
+                                         style="width: @Model.progresoP%"></div>
+                                </div>
+                                <p class="completitud2">@Model.progresoP%</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col squaresBiomonitor3">
+                        <div class="d-flex align-items-center justify-content-center text-center h-100 mx-5">
+                            <div>
+                                <p class="m-0 p-0">¿Dar acceso a la aplicación?</p>
+                            </div>
+                            <div>
+                                  
+                                <form method="post" asp-page-handler="Blur">
+                                    <input type="hidden" name="mail" value="Model.blurCSS" />
+                                    <button type="submit">
+                                        <span>Dar acceso</span>
+                                    </button>
+                                </form>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

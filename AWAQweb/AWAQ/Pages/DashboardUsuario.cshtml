@@ -1,0 +1,211 @@
+﻿@page
+@model DashboardUsuarioModel
+@{
+    ViewData["Title"] = "Tablero Singular";
+}
+
+<div class="wrapper biomonitorP">
+
+    <aside class="sidebar d-flex align-items-center p-10">
+        <div class="d-flex">
+            <div class="sidebar-logo">
+                <a href=""><img class="img-fluid" src="/img/AWAQWhite.png" alt="" /></a>
+            </div>
+        </div>
+        <ul class="sidebar-nav">
+            <li class="sidebar-item">
+                <div class="sidebar-link"><button>
+                        <i class="lni lni-list"></i>
+                        <span>Tablero</span>
+                </button></div>
+                
+                <!--
+                <form method="post" class="sidebar-link" asp-page-handler="Dashboard">
+                    <input type="hidden" name="mail" value="@Model.mail" />
+
+
+                    <button type="submit">
+                        <i class="lni lni-list"></i>
+                        <span>Tablero</span>
+                    </button>
+
+                </form>
+                 -->
+            </li>
+
+            <li class="sidebar-item">
+                <a href="Inv" class="sidebar-link">
+                    <i class="lni lni-book"></i>
+                    <span>Especies</span>
+                </a>
+            </li>
+        </ul>
+        <div class="sidebar-footer">
+            <a href="Index" class="sidebar-link">
+                <i class="lni lni-exit"></i>
+                <span>Salir</span>
+            </a>
+        </div>
+    </aside>
+    <div class="main p-3">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="top">
+                    <div class="row">
+                        <div class="col-sm">
+                            <h1>Vista Singular</h1>
+                        </div>
+                        <div class="col-sm">
+                            <div class="row text-center">
+                                <h3>ID Usuario</h3>
+                            </div>
+                            <div class="row text-center">
+                                <h1>@Model.id_usuario</h1>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <br />
+                    <br />
+                </div>
+
+                <!-- Graphs -->
+                <div class="grafBiomonitor">
+                    <div class="row container-fluid">
+                        <!-- <div class="row"> -->
+                        <!-- borrar container-fluid? -->
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Usuario</p>
+                                <p class="h3">@Model.username</p>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Edad</p>
+                                <p class="h3">@Model.edad</p>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center p-3">
+                                <p class="m-0 p-0">País</p>
+                                <p class="h3">@Model.pais</p>
+                                <img src="/img/@Model.bandera" class="bandera" />
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor container-fluid">
+                            <!-- borrar container-fluid? -->
+                            <div class="text-center pt-3">
+                                <p>Experiencia</p>
+                                <p class="h3">@Model.exp</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Graphs -->
+                <div class="grafBiomonitor">
+                    <div class="row container-fluid">
+                        <!-- <div class="row"> -->
+                        <!-- borrar container-fluid? -->
+                        <div class="col-6 rectangleBiomonitor">
+                            <h1 class="txtTop">Proceso Actual</h1>
+                            <div class="text-center pt-3">
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Última especie descubierto</p>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Minutos jugados</p>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container rectangleBiomonitorInside">
+                                            <p>Última conexión</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">@Model.ultimoAnimal</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">@Model.tiempo_jugado</h2>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container">
+                                            <h2 class="mb-oso">@Model.ultima_conexion</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col squaresBiomonitor2">
+                            <div class="row container-fluid">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Métodos completados</p>
+                                    <p class="h3">@Model.metodos_completados</p>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row container-fluid squaresBiomonitor2">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Minutos promedio por monitoreo</p>
+                                    <p class="h3">@Model.promedio</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col squaresBiomonitor2">
+                            <div class="row container-fluid">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Clasificación por tiempo</p>
+                                    <p class="h3">@Model.ranking</p>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row container-fluid squaresBiomonitor2">
+                                <div class="text-center pt-3">
+                                    <p class="m-0 p-0">Número de animales encontrados</p>
+                                    <p class="h3">@Model.animalesEncontrados</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row container-fluid p-0 m-0">
+                    <div class="col-6 p-0 m-0">
+                        <div class="container">
+                            <h1 class="mt-5">Estadística</h1>
+                            <div class="d-flex">
+                                <img src="/img/AWAQ.png" class="start-logo" />
+                                <p class="completitud">Progreso</p>
+                                <div class="progress size1">
+                                    <div class="progress-bar progress-bar-striped progress-bar-animated"
+                                         role="progressbar"
+                                         aria-valuemin="0"
+                                         aria-valuemax="100"
+                                         style="width: @Model.progresoP%"></div>
+                                </div>
+                                <p class="completitud2">@Model.progresoP%</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

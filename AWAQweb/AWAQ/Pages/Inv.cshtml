@@ -1,0 +1,196 @@
+﻿@page
+@model InvModel
+@{
+    ViewData["Title"] = "Especies";
+
+}
+
+<div class="wrapper biomonitorP">
+
+    <aside class="sidebar d-flex align-items-center p-10">
+        <div class="d-flex">
+            <div class="sidebar-logo">
+                <a href=""><img class="img-fluid" src="/img/AWAQWhite.png" alt="" /></a>
+            </div>
+        </div>
+        <ul class="sidebar-nav">
+
+            <!--  <li class="sidebar-item">
+        <div class="sidebar-link">
+            <button>
+                <i class="lni lni-list"></i>
+                <span>Tablero</span>
+            </button>
+        </div>
+
+    </li>  -->
+
+            @if (Model.hasSession)
+            {
+                <li class="sidebar-item">
+                    <a href="DashboardUsuario" class="sidebar-link">
+                        <i class="lni lni-list"></i>
+                        <span>Tablero</span>
+                    </a>
+                </li>
+            }
+
+            <li class="sidebar-item">
+                <a href="Inv" class="sidebar-link">
+                    <span>Ver todos</span>
+                </a>
+            </li>
+
+            <li class="sidebar-item">
+                <form method="post" class="sidebar-link" asp-page-handler="BusquedaPajaros">
+                    <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                    <button type="submit">
+                        <span>Ver Pajaros</span>
+                    </button>
+                </form>
+                <form method="post" class="sidebar-link" asp-page-handler="BusquedaMamiferos">
+                    <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                    <button type="submit">
+                        <span>Ver Mamíferos</span>
+                    </button>
+                </form>
+                <form method="post" class="sidebar-link" asp-page-handler="BusquedaPlantas">
+                    <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                    <button type="submit">
+                        <span>Ver Plantas</span>
+                    </button>
+                </form>
+                <form method="post" class="sidebar-link" asp-page-handler="BusquedaInsectos">
+                    <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                    <button type="submit">
+                        <span>Ver Insectos</span>
+                    </button>
+                </form>
+                <form method="post" class="sidebar-link" asp-page-handler="BusquedaAnfibios">
+                    <input asp-for="seleccion" type="hidden" value="@Model.seleccion" />
+                    <button type="submit">
+                        <span>Ver Anfibios</span>
+                    </button>
+                </form>
+            </li>
+
+
+        </ul>
+        <div class="sidebar-footer">
+            <a href="Index" class="sidebar-link">
+                <i class="lni lni-exit"></i>
+                <span>Salir</span>
+            </a>
+        </div>
+    </aside>
+    <div class="main p-3">
+        <div class="container-fluid">
+            <div class="container">
+                <div class="top">
+                    <div class="row">
+                        <div class="col-sm">
+                            <h1>Inventario</h1>
+                        </div>
+                        <!--
+                        <div class="col-sm">
+                            <div class="row text-center">
+                                <h3>ID Usuario</h3>
+                            </div>
+                            <div class="row text-center">
+                                <h1>Model.id_usuario</h1>
+                            </div>
+                        </div>
+                         -->
+                        
+                    </div>
+                    <br />
+                    <br />
+                </div>
+                <!-- aqui -->
+<div class="inventario">
+<main>
+    <div class="todos">
+        <div class="pokemon-todos listaPokemon">            
+            @foreach (var item in Model.ListaAnimales)
+            {
+
+<div class="pokemon">
+    <p class="pokemon-id-back">#@Html.DisplayFor(modelItem => item.idAnimal)</p>
+    <div class="pokemon-imagen">
+        <img src="@Html.DisplayFor(modelItem => item.imagen)" />
+    </div>
+    <div class="pokemon-info">
+        <div class="nombre-contenedor">
+            <p class="pokemon-id">#@Html.DisplayFor(modelItem => item.idAnimal)</p>
+            <h2 class="pokemon-nombre">@Html.DisplayFor(modelItem => item.nombre)</h2>
+        </div>
+        <p class="pInventario"> <span>Nombre cientifico:</span> @Html.DisplayFor(modelItem => item.nombreCientifico)</p>
+        <div class="pokemon-tipos">
+            <p class=" @Html.DisplayFor(modelItem => item.clase) tipo">@Html.DisplayFor(modelItem => item.clase)</p>
+        </div>
+        <div class="pokemon-stats">
+            <p class="stat altura">@Html.DisplayFor(modelItem => item.altura)</p>
+
+
+        </div>
+        <p class="stat peso">@Html.DisplayFor(modelItem => item.peso)</p>
+        @if (item.clase == "Pájaros")
+        {
+            <div class="container-audio">
+                <!--
+
+
+    -->
+                <audio controls style="margin-top: 10px;">
+                    DISEÑO 1 FOTO
+
+                    <source src="/aud/@item.sonido" type="audio/mp3"> Your browser dose not Support the audio Tag
+                </audio>
+                <!--
+                    <audio id="player" src="/aud/test.mp3"></audio>
+                <div>
+                    <button class="button-arounder" onclick="document.getElementById('player').play()"><i class="lni lni-play"></i></button>
+                </div>
+    -->
+
+            </div>
+        }
+
+
+    </div>
+</div>
+                }
+            <!--
+    <div class="pokemon">
+        <p class="pokemon-id-back">#025</p>
+        <div class="pokemon-imagen">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" />
+        </div>
+        <div class="pokemon-info">
+            <div class="nombre-contenedor">
+                <p class="pokemon-id">#025</p>
+                <h2 class="pokemon-nombre">Pikachu</h2>
+            </div>
+            <div class="pokemon-tipos">
+                <p class=" electric tipo">Electric</p>
+                <p class=" fighting tipo">Fighting</p>
+            </div>
+            <div class="pokemon-stats">
+                <p class="stat">4m</p>
+                <p class="stat">60kg</p>
+            </div>
+        </div>
+    </div>
+    -->
+        </div>
+    </div>
+</main>
+
+</div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+

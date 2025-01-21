@@ -1,0 +1,287 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+.inventario * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+
+.inventario {
+    background-color: #ddedc3;
+}
+
+.inventario span {
+    font-weight: bold;
+    font-style: normal !important;
+}
+
+.pInventario {
+    font-size: medium;
+    font-style: italic;
+}
+
+.inventario ul {
+    list-style-type: none;
+}
+
+.inventario button {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+}
+
+.inventario body {
+    min-height: 100vh;
+    background-color: #CBCAB0;
+}
+
+.inventario header {
+    padding-block: 1rem;
+    box-shadow: 0 0 2rem -1rem rgba(0,0,0,0.5);
+    background-color: #3c422c;
+}
+
+.inventario header * {
+    color: black !important;
+}
+
+.navInventario {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    padding-inline: 1rem;
+    max-width: 100%;
+    align-items: center;
+    margin 0 auto;
+}
+
+.navInventario img{
+    height: 120px;
+}
+
+.nav-listInventario {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /*Para que se vayan hacia abajo y no sobresalgan*/
+    gap: 0.5rem;
+}
+
+.btn-headerInventario {
+    background-color: #CBCAB0;
+    padding: 0.5rem;
+    border-radius: 100vmax !important;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 0 1rem rgb(0,0,0, 0.25) !important;
+    transition: 0.2s;
+}
+
+    .btn-headerInventario:hover {
+        transform: scale(1.1);
+        box-shadow: 0 0 2rem rgb(0,0,0, 0.25) !important;
+    }
+
+.inventario main {
+    padding: 0rem !important;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.pokemon-imagen img {
+    max-width: 40rem;
+    max-width: 380px;
+    max-height: 250px;
+}
+
+
+.pokemon-todos {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+@media screen and (min-width: 1000px) {
+    .pokemon-todos {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .pokemon-todos {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+.pokemon {
+    border-radius: 1rem;
+    background-color: whitesmoke;
+    box-shadow: 0 0 3rem -1rem rgba(0,0,0, 0.5);
+    padding-block: 1rem;
+    text-transform: uppercase;
+    position: relative; /*No entiendo bien que hace esto pero se necesita para que el pokemon-id-back quede bien con position absolute y top 1 rem*/
+    isolation: isolate; /*Cualquier z-index en sus elementos son delimitados a su fondo como fondo maximo. Osea, ningun elemento pueda estar detras de el*/
+    overflow: hidden;
+}
+
+.pokemon-id-back {
+    position: absolute;
+    top: 1rem;
+    left: 50%; /*Lo mueve el 50% del ancho del div en donde se encuentra*/
+    transform: translateX(-50%); /*Lo mueve el 50% de su ancho a la izquierda*/
+    font-size: 6rem;
+    font-weight: 800;
+    color: #CBCAB0;
+    z-index: -1;
+}
+
+.pokemon-imagen {
+    padding-inline: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.pokemon-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 10px;
+    padding-inline: 1rem;
+    align-items: center; /*quitar?*/
+    text-align: center; /*quitar?*/
+}
+
+.nombre-contenedor {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 0.5rem;
+    justify-content: center;
+}
+
+.pokemon-id {
+    background-color: #E0DCCD;
+    padding: 0.25rem 0.5rem;
+    border-radius: 100vmax;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.pokemon-nombre {
+    font-size: 1.4rem;
+}
+
+.pokemon-tipos /*quitar?*/ {
+    display: flex;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tipo {
+    padding: 0.25rem 0.5rem;
+    border-radius: 100vmax;
+}
+
+.pokemon-stats {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.85rem;
+}
+
+.stat {
+    background-color: #E0DCCD;
+    padding: .25rem .5rem;
+    border-radius: 100vmax;
+}
+
+/* Button colors based on type */
+
+.Mamíferos {
+    background-color: #222616 !important;
+    color: white;
+}
+
+.Anfibios {
+    background-color: #6E714A !important;
+    color: white;
+}
+
+.Insectos {
+    background-color: #A48A7A !important;
+    color: white;
+}
+
+.Pájaros {
+    background-color: #651A19 !important;
+    color: white;
+}
+
+.Plantas {
+    background-color: #392011 !important;
+    color: white;
+}
+
+.altura {
+    text-transform: none !important;
+    background-color: #CBBBA0 !important;
+}
+.peso {
+    text-transform: none !important;
+    border-radius: 15px !important;
+    margin-bottom: 50px;
+}
+
+.button-arounder {
+    display: inline-block !important;
+    outline: none !important;
+    cursor: pointer !important;
+    font-size: 14px !important;
+    line-height: 1 !important;
+    border-radius: 500px !important;
+    transition-property: background-color, border-color, color, box-shadow, filter !important;
+    transition-duration: .3s !important;
+    border: 1px solid transparent !important;
+    text-transform: uppercase !important;
+    white-space: normal !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    padding: 16px 14px 18px !important;
+    color: white !important;
+    background-color: #537519 !important;
+    height: 45px !important;
+    width: 45px !important;
+}
+
+.button-arounder:hover {
+    background-color: #6a961f !important;
+}
+
+.button-arounder:active {
+    background-color: darkgreen !important;
+}
+
+
+
+.container-audio {
+    position: absolute;
+    bottom: 5px;
+    opacity: 50%;
+}

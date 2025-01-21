@@ -1,0 +1,93 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Registro";
+}
+<div class="container-fluid backgroundVideo">
+    <div class="position-absolute top-0 start-0">
+        <img src="/img/AWAQWhite.png" class="start-logo" />
+    </div>
+    <div class="grafLogIn">
+        <div class="row rowLogIn">
+            <div class="col squaresTransparent">
+                <div class="text-center text-align-center">
+                    <h1 class="display-1">Crece como biomonitor</h1>
+                    <p class="display-6 amarillo">
+                        Sumérgete en la emocionante aventura de convertirte en un biomonitor en tu área
+                    </p>
+                </div>
+            </div>
+            <div class="col squaresLogIn squaresRegister">
+                <div class="text-align-top text-align-center">
+                    <h2 class="text-white ingresar">Registrarse</h2>
+                </div>
+                <div class="container-fluid loginData">
+                    <form method="post">
+                        <div class="gap-4 full-size">
+                            <div class="form-floating mb-3">
+                                <input asp-for="nombre" class="form-control" placeholder="Guillermo" />
+                                <label asp-for="nombre">Nombre</label>
+                                <span asp-validation-for="nombre" class="text-white"></span>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="correo"
+                                       type="email"
+                                       class="form-control"
+                                       placeholder="" />
+                                <label for="floatingPassword">Correo</label>
+                                <span asp-validation-for="correo" class="text-white"></span>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="password"
+                                       type="password"
+                                       class="form-control"
+                                       placeholder="Password" />
+                                <label for="floatingPassword">Contraseña</label>
+                                <span asp-validation-for="password" class="text-white"></span>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input asp-for="edad"
+                                       type="number"
+                                       class="form-control"
+                                       placeholder="Edad" />
+                                <label for="floatingPassword">Edad</label>
+                                <span asp-validation-for="edad" class="text-white"></span>
+                            </div>
+                            
+                            <p class="text-white">País</p>
+                            <div class="form-check  text-white">
+                                <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault1" value="España" checked>
+                                <label class="form-check-label" for="flexRadioDefault1">
+                                    España
+                                </label>
+                            </div>
+                            <div class="form-check  text-white">
+                                <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault2" value="Colombia">
+                                <label class="form-check-label" for="flexRadioDefault2">
+                                    Colombia
+                                </label>
+                            </div>
+                            <div class="form-check  text-white">
+                                <input asp-for="pais" class="form-check-input" type="radio" id="flexRadioDefault3" value="México">
+                                <label class="form-check-label" for="flexRadioDefault3">
+                                    México
+                                </label>
+                            </div>
+
+                        <div class="d-grid gap-2 container-fluid">
+                            <button type="submit" class="btn btn-primary botonlogin">
+                                Registrarse
+                            </button>
+                        </div>
+                    </form>
+                    <div class="text-center">
+                        <p class="cuenta mt-2 text-white">¿Ya tienes cuenta? <a href="/Index">Entrar</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <video autoplay muted loop class="Video">
+        <source src="/img/waterfall.mp4" type="video/mp4" />
+    </video>
+</div>
